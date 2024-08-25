@@ -95,10 +95,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             I worked as a Web Developer for three months, where I was
-            responsible for developing and maintaining multiple web applications
-            using HTML, CSS, JavaScript, and React.js. During this time, I
-            collaborated closely with a team of designers and developers to
-            create user-friendly, responsive websites.
+            responsible for developing and maintaining multiple web applications using HTML, CSS, JavaScript, and React.js.
           </p>
         </motion.div>
 
@@ -125,10 +122,7 @@ const MySkills = () => {
           </div>
           <p className="mt-5">
             As a Web Developer, I brought an innovative approach to building and
-            enhancing web applications. I consistently explored new solutions to
-            improve application performance and user engagement, such as
-            integrating RESTful APIs in creative ways and optimizing front-end
-            components for speed and efficiency.
+            enhancing web applications.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -153,12 +147,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            I consistently sought new and imaginative ways to solve complex
-            problems, whether it was through innovative UI/UX designs or by
-            crafting unique solutions for integrating RESTful APIs with
-            front-end components. I embraced a creative mindset to enhance user
-            engagement, developing interactive features that provided a more
-            dynamic user experience.
+            I consistently sought new and imaginative ways to solve complex problems.
           </p>
         </motion.div>
       </div>

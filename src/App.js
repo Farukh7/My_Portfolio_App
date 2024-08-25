@@ -60,6 +60,9 @@ function App() {
           <MySkills />
         </motion.div>
       </div>
+      <br />
+      <br />
+      <br />
       <LineGradient />
       <div className="w-5/6 mx-auto">
         <motion.div
@@ -80,6 +83,9 @@ function App() {
           <Testimonials />
         </motion.div>
       </div>
+      <br />
+      <br />
+      <br />
       <LineGradient />
       <div className="w-5/6 mx-auto md:h-full">
         <motion.div
