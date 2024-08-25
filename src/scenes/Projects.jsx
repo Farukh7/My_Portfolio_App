@@ -89,15 +89,15 @@ const Projects = () => {
           {/* ROW 2 */}
           <Project
             title="Project 3"
-            subTitle="A restaurant-type application designed to offer a user-friendly platform for managing restaurant operations. This project includes features such as menu management, order processing, and customer interactions, showcasing my ability to create functional and engaging applications tailored to the restaurant industry."
+            subTitle="A restaurant-type application designed to offer a user-friendly platform for managing restaurant operations."
           />
           <Project
             title="Project 4"
-            subTitle="A food ordering app similar to Swiggy, developed entirely using React.js. This application features real-time order tracking, restaurant listings, and an easy-to-use interface for placing and managing food orders. It highlights my skills in building comprehensive and user-friendly platforms focused solely on front-end development with React.js."
+            subTitle="A food ordering app similar to Swiggy, developed entirely using React.js. This application features real-time order tracking, restaurant listings, and an easy-to-use interface for placing and managing food orders."
           />
           <Project
             title="Project 5"
-            subTitle="A streaming platform inspired by Netflix, developed using React.js, Redux, Firebase for authentication, and OpenAI for generating personalized recommendations and content suggestions. This project features a responsive interface for browsing and watching content, user authentication, and advanced state management, demonstrating my proficiency in building complex applications with state-of-the-art technologies."
+            subTitle="A streaming platform inspired by Netflix, developed using React.js, Redux, Firebase for authentication, and OpenAI for generating personalized recommendations and content suggestions."
           />
 
           {/* ROW 3 */}
