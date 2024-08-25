@@ -56,8 +56,10 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+            Hello! I'm Farukh Khan, a passionate MERN Stack Developer with a
+            strong foundation in web development. I love building innovative
+            applications and thrive on solving complex problems with creative
+            solutions. Explore my portfolio to see my work!
           </p>
         </motion.div>
 
